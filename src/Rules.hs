@@ -1,7 +1,7 @@
 {-|
 Module      : Rules
 Description : Le module 'Rules' fournit les règles du jeu Gobblet, y compris la validation des mouvements et la gestion de l'état du jeu.
-Maintainer  : exemple@email.com
+Maintainer  : NAYERI POOR Ali
 Stability   : experimental
 Portability : portable
 
